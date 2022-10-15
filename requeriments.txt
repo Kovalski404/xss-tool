@@ -1,0 +1,3 @@
+#pip install requests
+#pip install datatime
+#pip install colorama
